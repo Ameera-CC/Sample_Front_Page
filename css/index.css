@@ -1,0 +1,45 @@
+
+.div-items a{
+color: #ffffff;
+width: 150px;
+text-align: center;
+
+}
+.div-items button{
+    /* border-radius: revert; */
+    background-color:#ffffff;
+
+}
+.div-search {
+    right: 50px;
+}
+.dropdown-item {
+    white-space: normal;
+        border: 1px solid #84B6D0;
+        margin: 9px 9px;
+       
+}
+/* body  {
+    background-image: url("/images/theme1.jpeg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+  background-position: center; 
+
+  } */
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("/images/theme1.jpeg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
